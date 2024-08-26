@@ -4,5 +4,6 @@
     "project_description": "an app for the food",
     "creation_time": "2024-08-26 07:30:29.197493",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "This image showcases a surreal, sci-fi landscape dominated by vibrant shades of pink and purple with a celestial theme featuring planets and mountains, creating a dreamlike and otherworldly atmosphere."
 }
