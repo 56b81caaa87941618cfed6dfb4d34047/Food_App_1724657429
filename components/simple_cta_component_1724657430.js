@@ -2,7 +2,7 @@
 */
 Vue.component("simple_cta_component_1724657430", {
     template: `
-    <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1" style="min-height: 630px;"><div class="bg-green-400 flex gap-4" ><div>this is the para</div><div>this is the Newpara</div></div></section>
+    <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1" style="min-height: 630px;"><div class="bg-green-400 flex gap-4" style="min-height: 630px;"><div>this is the para</div><div>this is the Newpara</div></div></section>
         `,
     data() {
         return {
